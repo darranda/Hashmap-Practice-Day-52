@@ -1,4 +1,4 @@
-package javaprogramming.mooc.part8printmeanotherhasmap;
+package javaprogramming.mooc.part8.printmeanotherhasmap;
 
 public class Book {
 

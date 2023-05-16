@@ -1,4 +1,4 @@
-package javaprogramming.mooc.part8printmemyhashmap;
+package javaprogramming.mooc.part8.printmemyhashmap;
 
 import java.util.HashMap;
 

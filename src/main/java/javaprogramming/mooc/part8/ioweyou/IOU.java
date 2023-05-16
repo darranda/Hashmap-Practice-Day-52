@@ -1,4 +1,4 @@
-package javaprogramming.mooc.part8ioweyou;
+package javaprogramming.mooc.part8.ioweyou;
 
 import java.util.HashMap;
 

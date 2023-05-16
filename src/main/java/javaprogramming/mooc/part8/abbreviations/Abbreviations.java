@@ -1,4 +1,4 @@
-package javaprogramming.mooc.part8abbreviations;
+package javaprogramming.mooc.part8.abbreviations;
 
 import java.util.HashMap;
 
